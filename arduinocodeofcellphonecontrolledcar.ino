@@ -1,4 +1,8 @@
 //created by Team !ABHIMANYU
+//ML1 left motor clockwise
+//ML2 left motor anticlockwise
+//MR1 Rigtht  motor clockwise
+//MR2 Right  motor anticlockwise
 
 #define ML1 6 
 #define ML2 5
